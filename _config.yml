@@ -1,3 +1,3 @@
-theme: cayman
 title: "Marketing Analytics Dashboard"
 description: "ROAS, efficiency frontier, growth, Pareto, correlations"
+theme: jekyll-theme-cayman
