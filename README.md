@@ -18,6 +18,5 @@ It helps identify which campaigns deliver the best return and where budgets shou
 
 ```bash
 git clone https://github.com/Mary-B90/marketing-portfolio-dashboard.git
-cd marketing-portfolio-dashboard
-pip install -r requirements.txt
-python3 build_dashboard_advanced.py
+cd
+
