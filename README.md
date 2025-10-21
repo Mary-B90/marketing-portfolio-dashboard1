@@ -15,32 +15,9 @@ It helps identify which campaigns deliver the best return and where budgets shou
 - Correlation between Clicks, Leads, Conversions
 
 ## 🚀 How to Run
+
 ```bash
 git clone https://github.com/Mary-B90/marketing-portfolio-dashboard.git
 cd marketing-portfolio-dashboard
 pip install -r requirements.txt
 python3 build_dashboard_advanced.py
-
-⚙️ Requirements
-
-pandas
-
-numpy
-
-matplotlib
-
-openpyxl
-
-💡 Example Highlights
-
-Total Revenue: £85,620
-
-Total Spend: £8,630
-
-Overall ROAS: 9.9
-
-Best Channel: LinkedIn
-
-📜 License
-
-MIT License © 2025 Marzieh Borhani
