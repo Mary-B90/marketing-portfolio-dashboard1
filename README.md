@@ -28,14 +28,14 @@ pip install -r requirements.txt
 python3 build_dashboard_advanced.py
 
 ---
-##⚙️** Requirements**
-pandas
-numpy
-matplotlib
-openpyxl
----
 
-## 💡 Example Highlights
+## ⚙️ Requirements
+- pandas  
+- numpy  
+- matplotlib  
+- openpyxl  
+
+---
 
 ## 💡 Example Highlights
 - Total Revenue: £85,620  
