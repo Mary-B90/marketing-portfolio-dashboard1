@@ -1,4 +1,4 @@
-# Marketing Campaign Dashboard 2025
+# 🧠 Marketing Campaign Dashboard 2025
 *Advanced marketing analytics in Python — uncovering ROAS, efficiency, and growth insights.*
 
 ![Dashboard Overview](advanced/images/analytics_dashboard.png)
@@ -26,5 +26,4 @@ git clone https://github.com/Mary-B90/marketing-portfolio-dashboard.git
 cd marketing-portfolio-dashboard
 pip install -r requirements.txt
 python3 build_dashboard_advanced.py
-
 
