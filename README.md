@@ -1,3 +1,6 @@
+
+![Dashboard Overview](advanced/images/analytics_dashboard.png)
+
 # Marketing Campaign Dashboard 2025
 
 A static, GitHub-friendly dashboard showing campaign efficiency metrics.
