@@ -18,10 +18,20 @@ It helps identify which campaigns deliver the best return and where budgets shou
 ⚙️ Requirements
 
 pandas
+
 numpy
+
 matplotlib
+
 openpyxl
 
+💡 Example Highlights
+
+Total Revenue: £85,620
+Total Spend: £8,630
+Overall ROAS: 9.9
+Best Channel: LinkedIn
 
 📜 License
+
 MIT License © 2025 Marzieh Borhani
